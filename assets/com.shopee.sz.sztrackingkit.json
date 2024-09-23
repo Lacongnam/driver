@@ -1,0 +1,15 @@
+{
+  "protocol": "v1",
+  "mode": "release",
+  "time": "2024-06-27 14:32:30.121",
+  "version": "1.19.0",
+  "branch": "master",
+  "commitId": "2a189bd7ed6f6e9c3e0fdafd9bb0307caac71fe3",
+  "moduleCommitId": "2a189bd7ed6f6e9c3e0fdafd9bb0307caac71fe3",
+  "lastMessage": "#feature [MMS-9168] 上报库独立化",
+  "extraInfo": "master",
+  "groupId": "com.shopee.sz",
+  "artifactId": "sztrackingkit",
+  "path": ":sztrackingkit",
+  "remoteUrl": "ssh://gitlab@git.garena.com:2222/shopee/ssz-client/android/toc/common.git"
+}

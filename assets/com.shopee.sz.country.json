@@ -1,0 +1,15 @@
+{
+  "protocol": "v1",
+  "mode": "release",
+  "time": "2022-05-30 18:51:31.915",
+  "version": "1.8.0",
+  "branch": "master",
+  "commitId": "b88d012bc5d2f5227989be27ae64b1f4c241c0d4",
+  "moduleCommitId": "008c9bd66862ed5cf698b0a411a6de8d0a2a733f",
+  "lastMessage": "修复 编译问题",
+  "extraInfo": "master",
+  "groupId": "com.shopee.sz",
+  "artifactId": "country",
+  "path": ":country",
+  "remoteUrl": "ssh://gitlab@git.garena.com:2222/shopee/ssz-client/android/toc/common.git"
+}

@@ -1,0 +1,15 @@
+{
+  "protocol": "v1",
+  "mode": "patch",
+  "time": "2021-04-19 11:46:37.693",
+  "version": "0.0.1",
+  "branch": "master",
+  "commitId": "d72d18d3b0d0c49b63ace1c06b4d4e5528dcad15",
+  "moduleCommitId": "fb0cff88e7caa8b190325ed9f60e396023405ede",
+  "lastMessage": "Upgrade androidpods version.",
+  "extraInfo": "master",
+  "groupId": "com.shopee.sz",
+  "artifactId": "sdkversions",
+  "path": ":sdkversions",
+  "remoteUrl": "ssh://gitlab@git.garena.com:2222/shopee/ssz-client/android/toc/common.git"
+}

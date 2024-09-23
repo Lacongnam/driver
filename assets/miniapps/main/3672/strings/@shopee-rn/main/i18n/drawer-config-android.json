@@ -1,0 +1,232 @@
+{
+  "drawer": {
+    "working_status": 0,
+    "auto_accept_order": 0,
+    "config": [
+      {
+        "id": 9,
+        "route_url": "@shopee-rn/main/ORDER_ASSIGNMENT",
+        "title": {
+          "en": "Auto-accept Order",
+          "vi": "Tự động nhận đơn"
+        },
+        "need_gray": true,
+        "gray_api": "/v5/driver/get_single_assign_settings",
+        "gray_action": 2,
+        "gray_route_url": "@shopee-rn/main/ORDER_ASSIGNMENT",
+        "gray_title": {
+          "en": "Auto-accept Order",
+          "vi": "Tự động nhận đơn"
+        }
+      },
+      {
+        "id": 5,
+        "route_url": "@shopee-rn/main/HUB",
+        "title": {
+          "en": "HUB",
+          "vi": "HUB"
+        },
+        "need_gray": true,
+        "gray_api": "/v5/driver/hub/get_infos",
+        "gray_action": 2,
+        "gray_route_url": "@shopee-rn/main/HUB",
+        "gray_title": {
+          "en": "HUB",
+          "vi": "HUB"
+        }
+      },
+      {
+        "id": 0,
+        "title": {
+          "en": "Notification",
+          "vi": "Thông báo"
+        }
+      },
+      {
+        "id": 2,
+        "route_url": "@shopee-rn/main/REBORN_INCOME",
+        "title": {
+          "en": "Income",
+          "vi": "Thu nhập"
+        },
+        "need_gray": true,
+        "gray_api": "wallet.ui",
+        "gray_action": 0,
+        "gray_route_url": "@shopee-rn/main/REBORN_INCOME",
+        "gray_title": {
+          "en": "Income",
+          "vi": "Thu nhập"
+        }
+      },
+      {
+        "id": 1,
+        "route_url": "@shopee-rn/main/WALLET",
+        "title": {
+          "en": "Wallet",
+          "vi": "Ví"
+        },
+        "need_gray": true,
+        "gray_api": "wallet.ui",
+        "gray_action": 2,
+        "gray_route_url": "@shopee-rn/main/WALLET",
+        "gray_title": {
+          "en": "Wallet",
+          "vi": "Ví"
+        }
+      },
+      {
+        "id": 3,
+        "route_url": "@shopee-rn/main/REBORN_TIER",
+        "title": {
+          "en": "Tier",
+          "vi": "Cấp độ"
+        },
+        "need_gray": true,
+        "gray_api": "/report/v5/get_daily_bonus_info",
+        "gray_action": 2,
+        "gray_route_url": "@shopee-rn/main/REBORN_TIER",
+        "gray_title": {
+          "en": "Tier",
+          "vi": "Cấp độ"
+        }
+      },
+      {
+        "id": 4,
+        "route_url": "@shopee-rn/main/REBORN_ORDER_LIST_COMPLETED",
+        "title": {
+          "en": "Order History",
+          "vi": "Lịch sử đơn hàng"
+        },
+        "need_gray": true,
+        "gray_api": "/v5/delivery/get-basic-info",
+        "gray_action": 2,
+        "gray_route_url": "@shopee-rn/main/REBORN_ORDER_LIST_COMPLETED",
+        "gray_title": {
+          "en": "Order History",
+          "vi": "Lịch sử đơn hàng"
+        }
+      },
+      {
+        "id": 6,
+        "title": {
+          "en": "Help Centre",
+          "vi": "Trung tâm Hỗ trợ"
+        }
+      },
+      {
+        "id": 7,
+        "title": {
+          "en": "Settings",
+          "vi": "Cài đặt"
+        }
+      }
+    ],
+    "no_profile_config": [
+      {
+        "id": 0,
+        "title": {
+          "en": "Notification",
+          "vi": "Thông báo"
+        }
+      },
+      {
+        "id": 6,
+        "title": {
+          "en": "Help Centre",
+          "vi": "Trung tâm Hỗ trợ"
+        }
+      },
+      {
+        "id": 7,
+        "title": {
+          "en": "Settings",
+          "vi": "Cài đặt"
+        }
+      }
+    ]
+  },
+  "settings": {
+    "config": [
+      {
+        "id": 0,
+        "items": [
+          {
+            "id": 0,
+            "route_url": "@shopee-rn/main/REBORN_PROFILE",
+            "title": {
+              "en": "My Profile",
+              "vi": "Hồ sơ của tôi"
+            }
+          },
+          {
+            "id": 1,
+            "title": {
+              "en": "My Account",
+              "vi": "Tài khoản của tôi"
+            }
+          }
+        ]
+      },
+      {
+        "id": 1,
+        "items": [
+          {
+            "id": 106,
+            "route_url": "@shopee-rn/main/ORDER_ASSIGNMENT",
+            "title": {
+              "en": "Order Assignment",
+              "vi": "Phương thức nhận đơn"
+            }
+          },
+          {
+            "id": 108,
+            "title": {
+              "en": "Update Location",
+              "vi": "Cập nhật vị trí của tôi"
+            }
+          },
+          {
+            "id": 102,
+            "title": {
+              "en": "Notification Settings",
+              "vi": "Cài đặt thông báo"
+            }
+          },
+          {
+            "id": 105,
+            "title": {
+              "en": "Change Font Size",
+              "vi": "Thay đổi cỡ chữ"
+            }
+          },
+          {
+            "id": 104,
+            "title": {
+              "en": "Change Language",
+              "vi": "Thay đổi ngôn ngữ"
+            }
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "items": [
+          {
+            "id": 201,
+            "title": {
+              "en": "About",
+              "vi": "Thông tin chung"
+            }
+          },
+          {
+            "id": 202,
+            "title": {
+              "en": "Terms and Conditions",
+              "vi": "Điều khoản và điều kiện"
+            }
+          }
+        ]
+      }
+    ]
+  }
+}

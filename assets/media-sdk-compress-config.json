@@ -1,0 +1,144 @@
+{
+    "android": {
+        "pictureQuality": 80,
+        "pictureMaxWidth": 1080,
+        "maxWidth": 800,
+        "maxSizeInKB": 150,
+        "defaultCompressQuality": 100,
+        "list": [
+            {
+                "sizeInKB": 600,
+                "compressQuality": 70,
+                "width": 800
+            },
+            {
+                "sizeInKB": 450,
+                "compressQuality": 75,
+                "width": 800
+            },
+            {
+                "sizeInKB": 330,
+                "compressQuality": 80,
+                "width": 800
+            },
+            {
+                "sizeInKB": 250,
+                "compressQuality": 85,
+                "width": 800
+            },
+            {
+                "sizeInKB": 150,
+                "compressQuality": 90,
+                "width": 800
+            },
+            {
+                "sizeInKB": 0,
+                "compressQuality": 100,
+                "width": 800
+            }
+        ],
+        "maxVideoWidth": 640,
+        "videoList": [
+            {
+                "duration": 25,
+                "bitrate": 1000
+            },
+            {
+                "duration": 20,
+                "bitrate": 1100
+            },
+            {
+                "duration": 15,
+                "bitrate": 1200
+            },
+            {
+                "duration": 10,
+                "bitrate": 1300
+            },
+            {
+                "duration": 5,
+                "bitrate": 1400
+            },
+            {
+                "duration": 0,
+                "bitrate": 1500
+            }
+        ]
+    },
+    "ios": {
+        "pictureQuality": 75,
+        "pictureMaxWidth": 1080,
+        "maxWidth": 700,
+        "maxSizeInKB": 150,
+        "defaultCompressQuality": 100,
+        "list": [
+            {
+                "sizeInKB": 800,
+                "compressQuality": 60,
+                "width": 700
+            },
+            {
+                "sizeInKB": 700,
+                "compressQuality": 70,
+                "width": 700
+            },
+            {
+                "sizeInKB": 650,
+                "compressQuality": 75,
+                "width": 700
+            },
+            {
+                "sizeInKB": 600,
+                "compressQuality": 80,
+                "width": 700
+            },
+            {
+                "sizeInKB": 500,
+                "compressQuality": 85,
+                "width": 700
+            },
+            {
+                "sizeInKB": 450,
+                "compressQuality": 90,
+                "width": 700
+            },
+            {
+                "sizeInKB": 350,
+                "compressQuality": 95,
+                "width": 700
+            },
+            {
+                "sizeInKB": 150,
+                "compressQuality": 100,
+                "width": 700
+            }
+        ],
+        "maxVideoWidth": 640,
+        "videoList": [
+            {
+                "duration": 25,
+                "bitrate": 900
+            },
+            {
+                "duration": 20,
+                "bitrate": 1000
+            },
+            {
+                "duration": 15,
+                "bitrate": 1100
+            },
+            {
+                "duration": 10,
+                "bitrate": 1200
+            },
+            {
+                "duration": 5,
+                "bitrate": 1300
+            },
+            {
+                "duration": 0,
+                "bitrate": 1500
+            }
+        ]
+    }
+}

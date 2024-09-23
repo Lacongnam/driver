@@ -1,0 +1,261 @@
+{
+  "nested": {
+    "chatbot": {
+      "nested": {
+        "botapi": {
+          "options": {
+            "go_package": "chatbot.botapi"
+          },
+          "nested": {
+            "default": {
+              "methods": {
+                "ws_build_connection": {
+                  "requestType": "WsBuildConnectionRequest",
+                  "responseType": "WsBuildConnectionResponse"
+                },
+                "ws_proxy_http": {
+                  "requestType": "WSProxyHTTPRequest",
+                  "responseType": "WSProxyHTTPResponse"
+                }
+              }
+            },
+            "WsBuildConnectionRequest": {
+              "fields": {
+                "headers": {
+                  "keyType": "string",
+                  "type": "string",
+                  "id": 1
+                },
+                "wsHandlerInstanceId": {
+                  "type": "string",
+                  "id": 2
+                },
+                "sessionId": {
+                  "type": "string",
+                  "id": 3
+                },
+                "connectionId": {
+                  "type": "string",
+                  "id": 4
+                }
+              }
+            },
+            "WsBuildConnectionResponse": {
+              "fields": {
+                "isValidate": {
+                  "type": "bool",
+                  "id": 1
+                }
+              }
+            },
+            "Frame": {
+              "oneofs": {
+                "_seqId": {
+                  "oneof": ["seqId"]
+                },
+                "_msgType": {
+                  "oneof": ["msgType"]
+                },
+                "_ack": {
+                  "oneof": ["ack"]
+                },
+                "_content": {
+                  "oneof": ["content"]
+                },
+                "_extData": {
+                  "oneof": ["extData"]
+                }
+              },
+              "fields": {
+                "seqId": {
+                  "type": "int64",
+                  "id": 1,
+                  "options": {
+                    "proto3_optional": true
+                  }
+                },
+                "msgType": {
+                  "type": "int64",
+                  "id": 2,
+                  "options": {
+                    "proto3_optional": true
+                  }
+                },
+                "ack": {
+                  "type": "int64",
+                  "id": 3,
+                  "options": {
+                    "proto3_optional": true
+                  }
+                },
+                "content": {
+                  "type": "Content",
+                  "id": 4,
+                  "options": {
+                    "proto3_optional": true
+                  }
+                },
+                "extData": {
+                  "type": "ExtraData",
+                  "id": 5,
+                  "options": {
+                    "proto3_optional": true
+                  }
+                }
+              }
+            },
+            "Content": {
+              "oneofs": {
+                "_wsProxyHttpRequest": {
+                  "oneof": ["wsProxyHttpRequest"]
+                },
+                "_wsProxyHttpResponse": {
+                  "oneof": ["wsProxyHttpResponse"]
+                }
+              },
+              "fields": {
+                "wsProxyHttpRequest": {
+                  "type": "ProxyHTTPRequestContent",
+                  "id": 1,
+                  "options": {
+                    "proto3_optional": true
+                  }
+                },
+                "wsProxyHttpResponse": {
+                  "type": "ProxyHTTPResponseContent",
+                  "id": 2,
+                  "options": {
+                    "proto3_optional": true
+                  }
+                }
+              }
+            },
+            "ExtraData": {
+              "fields": {}
+            },
+            "WSBasicParams": {
+              "fields": {
+                "sessionId": {
+                  "type": "string",
+                  "id": 1
+                }
+              }
+            },
+            "WSProxyHTTPRequest": {
+              "oneofs": {
+                "_frame": {
+                  "oneof": ["frame"]
+                }
+              },
+              "fields": {
+                "wsBasicParams": {
+                  "type": "WSBasicParams",
+                  "id": 1
+                },
+                "frame": {
+                  "type": "bytes",
+                  "id": 2,
+                  "options": {
+                    "proto3_optional": true
+                  }
+                }
+              }
+            },
+            "WSProxyHTTPResponse": {
+              "oneofs": {
+                "_frame": {
+                  "oneof": ["frame"]
+                }
+              },
+              "fields": {
+                "frame": {
+                  "type": "bytes",
+                  "id": 1,
+                  "options": {
+                    "proto3_optional": true
+                  }
+                }
+              }
+            },
+            "ProxyHTTPRequestContent": {
+              "oneofs": {
+                "_body": {
+                  "oneof": ["body"]
+                },
+                "_query": {
+                  "oneof": ["query"]
+                }
+              },
+              "fields": {
+                "path": {
+                  "type": "string",
+                  "id": 1
+                },
+                "method": {
+                  "type": "string",
+                  "id": 2
+                },
+                "body": {
+                  "type": "string",
+                  "id": 3,
+                  "options": {
+                    "proto3_optional": true
+                  }
+                },
+                "query": {
+                  "type": "string",
+                  "id": 4,
+                  "options": {
+                    "proto3_optional": true
+                  }
+                },
+                "appendHeaders": {
+                  "keyType": "string",
+                  "type": "string",
+                  "id": 5
+                }
+              }
+            },
+            "ProxyHTTPResponseContent": {
+              "fields": {
+                "statusCode": {
+                  "type": "int64",
+                  "id": 1
+                },
+                "response": {
+                  "type": "string",
+                  "id": 2
+                },
+                "responseHeaders": {
+                  "keyType": "string",
+                  "type": "string",
+                  "id": 5
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "google": {
+      "nested": {
+        "protobuf": {
+          "nested": {
+            "Any": {
+              "fields": {
+                "type_url": {
+                  "type": "string",
+                  "id": 1
+                },
+                "value": {
+                  "type": "bytes",
+                  "id": 2
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "mode": "patch",
+  "time": "2023-07-11 14:09:42.592",
+  "version": "0.8.3",
+  "branch": "chaojie/3.06_return_play_domain",
+  "commitId": "2a9ed87f1edad3ec7674bcef397b60fb67291312",
+  "lastMessage": "return play domain",
+  "extraInfo": "chaojie/3.06_return_play_domain",
+  "groupId": "com.shopee.sz.common",
+  "artifactId": "ussuploadsdk"
+}

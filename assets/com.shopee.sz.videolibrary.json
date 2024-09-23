@@ -1,0 +1,15 @@
+{
+  "protocol": "v1",
+  "mode": "test",
+  "time": "2024-08-02 10:20:34.354",
+  "version": "0.0.15.1722565234353.905c40d.test",
+  "branch": "dev/food/livechat-rn-SPFVN-24794",
+  "commitId": "905c40d923bd137c9939445c0257fa321cb8fbf2",
+  "moduleCommitId": "4b39233dd36645bdeda5e40d4cf780cd3ccb6d64",
+  "lastMessage": "feat: 升级feedvideolibrary:1.96.2",
+  "extraInfo": "",
+  "groupId": "com.shopee.sz",
+  "artifactId": "videolibrary",
+  "path": ":videolibrary",
+  "remoteUrl": "gitlab@git.garena.com:shopee/ssz-client/android/toc/livechat.git"
+}

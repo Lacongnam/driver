@@ -1,0 +1,15 @@
+{
+  "protocol": "v1",
+  "mode": "release",
+  "time": "2022-06-06 16:12:37.576",
+  "version": "0.0.20",
+  "branch": "release-2.3",
+  "commitId": "352905737a2137f0d978769067fe2c76a8868046",
+  "moduleCommitId": "7aa66898be217a4cff65002e656b09d3ad15f141",
+  "lastMessage": "Merge branch \u0027upgrade_plugin\u0027 into \u0027release-2.3\u0027",
+  "extraInfo": "pods",
+  "groupId": "com.shopee.apm",
+  "artifactId": "apm-filecache-service",
+  "path": ":file-cache",
+  "remoteUrl": "gitlab@git.garena.com:shopee/sz-devops/mdap/hamster-android.git"
+}

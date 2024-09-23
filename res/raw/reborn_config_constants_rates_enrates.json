@@ -1,0 +1,254 @@
+[
+  {
+    "reasons": [
+      {
+        "image_name": "rude_staffs.png-08a8f9cb-0a40-4a-e212d1bc-210127222718.png",
+        "id": 34,
+        "is_custom_reason": false,
+        "description": "Rude to Driver",
+        "mms_id": "vn-11134526-7r98o-lv8dnp89tdrta8"
+      },
+      {
+        "image_name": "bad_package.png-5a6e8194-9a1d-41-5d98c847-210127222718.png",
+        "id": 35,
+        "is_custom_reason": false,
+        "description": "Bad packaging",
+        "mms_id": "vn-11134526-7r98o-lv8dnp7zec2i67"
+      },
+      {
+        "image_name": "shopeepay_reason-d197ac40-0f6e-4-886b9b0f-210818015347.png",
+        "id": 65,
+        "is_custom_reason": false,
+        "description": "Do not accept ShopeePay wallet",
+        "mms_id": "vn-11134526-7r98o-lv8dnp89xlh59a"
+      },
+      {
+        "image_name": "no_free_parking_lot.png-439d38f5-bb0eb603-210127222718.png",
+        "id": 37,
+        "is_custom_reason": false,
+        "description": "No free parking lot",
+        "mms_id": "vn-11134526-7r98o-lv8dnp89ciyh8d"
+      },
+      {
+        "image_name": "prioritize_preparing_orders_for_-140f52e6-210127222718.png",
+        "id": 38,
+        "is_custom_reason": false,
+        "description": "Prioritize preparing orders for other services",
+        "mms_id": "vn-11134526-7r98o-lv8dnp89nri127"
+      },
+      {
+        "image_name": "prepare_too_long.png-48ea118a-81-0f35cd3a-210127222718.png",
+        "id": 39,
+        "is_custom_reason": false,
+        "description": "Long order preparation",
+        "mms_id": "vn-11134526-7r98o-lv8dnp89jjspb6"
+      },
+      {
+        "image_name": "bad_others.png-71f777bc-8f1f-4d5-6b078d74-210127222718.png",
+        "id": 40,
+        "is_custom_reason": true,
+        "description": "Others",
+        "mms_id": "vn-11134526-7r98o-lv8dnp89p62h0a"
+      }
+    ],
+    "rate": 1,
+    "id": 1,
+    "name": "Terrible"
+  },
+  {
+    "reasons": [
+      {
+        "image_name": "rude_staffs.png-eafa432b-652f-40-97991575-210127222718.png",
+        "id": 41,
+        "is_custom_reason": false,
+        "description": "Rude to Driver",
+        "mms_id": "vn-11134526-7r98o-lv8dnp89tdrta8"
+      },
+      {
+        "image_name": "bad_package.png-02e386d4-2c2d-44-dd9007b2-210127222718.png",
+        "id": 42,
+        "is_custom_reason": false,
+        "description": "Bad packaging",
+        "mms_id": "vn-11134526-7r98o-lv8dnp7zec2i67"
+      },
+      {
+        "image_name": "shopeepay_reason-31c9aa83-9b08-4-3fcc403b-210818015347.png",
+        "id": 66,
+        "is_custom_reason": false,
+        "description": "Do not accept ShopeePay wallet",
+        "mms_id": "vn-11134526-7r98o-lv8dnp89xlh59a"
+      },
+      {
+        "image_name": "no_free_parking_lot.png-29f30a0f-c88f1422-210127222718.png",
+        "id": 44,
+        "is_custom_reason": false,
+        "description": "No free parking lot",
+        "mms_id": "vn-11134526-7r98o-lv8dnp89ciyh8d"
+      },
+      {
+        "image_name": "prioritize_preparing_orders_for_-9c6d1b25-210127222718.png",
+        "id": 45,
+        "is_custom_reason": false,
+        "description": "Prioritize preparing orders for other services",
+        "mms_id": "vn-11134526-7r98o-lv8dnp89nri127"
+      },
+      {
+        "image_name": "prepare_too_long.png-ccb949ac-04-7133002f-210127222718.png",
+        "id": 46,
+        "is_custom_reason": false,
+        "description": "Long order preparation",
+        "mms_id": "vn-11134526-7r98o-lv8dnp89jjspb6"
+      },
+      {
+        "image_name": "bad_others.png-332565d2-9520-4d6-a1fca930-210127222718.png",
+        "id": 47,
+        "is_custom_reason": true,
+        "description": "Others",
+        "mms_id": "vn-11134526-7r98o-lv8dnp89p62h0a"
+      }
+    ],
+    "rate": 2,
+    "id": 2,
+    "name": "Bad"
+  },
+  {
+    "reasons": [
+      {
+        "image_name": "rude_staffs.png-79e43530-7f64-4f-83bff1ec-210127222719.png",
+        "id": 48,
+        "is_custom_reason": false,
+        "description": "Rude to Driver",
+        "mms_id": "vn-11134526-7r98o-lv8dnp89tdrta8"
+      },
+      {
+        "image_name": "bad_package.png-cd147da0-fc5b-44-8d69d52a-210127222719.png",
+        "id": 49,
+        "is_custom_reason": false,
+        "description": "Bad packaging",
+        "mms_id": "vn-11134526-7r98o-lv8dnp7zec2i67"
+      },
+      {
+        "image_name": "shopeepay_reason-a6fd6d48-4130-4-a1da2e3a-210818015347.png",
+        "id": 67,
+        "is_custom_reason": false,
+        "description": "Do not accept ShopeePay wallet",
+        "mms_id": "vn-11134526-7r98o-lv8dnp89xlh59a"
+      },
+      {
+        "image_name": "no_free_parking_lot.png-b3224018-4f921e56-210127222719.png",
+        "id": 51,
+        "is_custom_reason": false,
+        "description": "No free parking lot",
+        "mms_id": "vn-11134526-7r98o-lv8dnp89ciyh8d"
+      },
+      {
+        "image_name": "prioritize_preparing_orders_for_-63c1d61f-210127222719.png",
+        "id": 52,
+        "is_custom_reason": false,
+        "description": "Prioritize preparing orders for other services",
+        "mms_id": "vn-11134526-7r98o-lv8dnp89nri127"
+      },
+      {
+        "image_name": "prepare_too_long.png-bf30f1d9-65-04f0d914-210127222719.png",
+        "id": 53,
+        "is_custom_reason": false,
+        "description": "Long order preparation",
+        "mms_id": "vn-11134526-7r98o-lv8dnp89jjspb6"
+      },
+      {
+        "image_name": "bad_others.png-22c49159-0c1a-4e7-84ea61ed-210127222719.png",
+        "id": 54,
+        "is_custom_reason": true,
+        "description": "Others",
+        "mms_id": "vn-11134526-7r98o-lv8dnp89p62h0a"
+      }
+    ],
+    "rate": 3,
+    "id": 3,
+    "name": "Just OK"
+  },
+  {
+    "reasons": [
+      {
+        "image_name": "friendly_staffs.png-60eaae97-36d-d928d999-210127222719.png",
+        "id": 55,
+        "is_custom_reason": false,
+        "description": "Friendly",
+        "mms_id": "vn-11134526-7r98o-lv8dnp7zijruc4"
+      },
+      {
+        "image_name": "good_package.png-98adc717-cf63-4-2637aaee-210127222719.png",
+        "id": 56,
+        "is_custom_reason": false,
+        "description": "Well packaging",
+        "mms_id": "vn-11134526-7r98o-lv8dnp7zo61mb0"
+      },
+      {
+        "image_name": "have_waiting_place_for_drivers_t-c2227f90-210127222719.png",
+        "id": 57,
+        "is_custom_reason": false,
+        "description": "Have waiting place for Drivers to pick orders",
+        "mms_id": "vn-11134526-7r98o-lv8dnp7zqz6i1f"
+      },
+      {
+        "image_name": "prepare_fast.png-92f37b92-e696-4-3ccd954c-210127222719.png",
+        "id": 58,
+        "is_custom_reason": false,
+        "description": "Quick order preparation",
+        "mms_id": "vn-11134526-7r98o-lv8dnp89gqnt6f"
+      },
+      {
+        "image_name": "good_others.png-e6928b76-29aa-49-43c9df0e-210127222719.png",
+        "id": 59,
+        "is_custom_reason": true,
+        "description": "Others",
+        "mms_id": "vn-11134526-7r98o-lv8dnp7zlcwqd6"
+      }
+    ],
+    "rate": 4,
+    "id": 4,
+    "name": "Good"
+  },
+  {
+    "reasons": [
+      {
+        "image_name": "friendly_staffs.png-a8fa3c1e-ca9-4c9f32e5-210127222719.png",
+        "id": 60,
+        "is_custom_reason": false,
+        "description": "Friendly",
+        "mms_id": "vn-11134526-7r98o-lv8dnp7zijruc4"
+      },
+      {
+        "image_name": "good_package.png-488d5700-2b65-4-4597039b-210127222719.png",
+        "id": 61,
+        "is_custom_reason": false,
+        "description": "Well packaging",
+        "mms_id": "vn-11134526-7r98o-lv8dnp7zo61mb0"
+      },
+      {
+        "image_name": "have_waiting_place_for_drivers_t-6bb9e2b8-210127222719.png",
+        "id": 62,
+        "is_custom_reason": false,
+        "description": "Have waiting place for Drivers to pick orders",
+        "mms_id": "vn-11134526-7r98o-lv8dnp7zqz6i1f"
+      },
+      {
+        "image_name": "prepare_fast.png-adecaa92-1439-4-469ae470-210127222719.png",
+        "id": 63,
+        "is_custom_reason": false,
+        "description": "Quick order preparation",
+        "mms_id": "vn-11134526-7r98o-lv8dnp89gqnt6f"
+      },
+      {
+        "image_name": "good_others.png-e79b5b62-a306-40-d8ad75bf-210127222719.png",
+        "id": 64,
+        "is_custom_reason": true,
+        "description": "Others",
+        "mms_id": "vn-11134526-7r98o-lv8dnp7zlcwqd6"
+      }
+    ],
+    "rate": 5,
+    "id": 5,
+    "name": "Perfect"
+  }
+]

@@ -1,0 +1,15 @@
+{
+  "protocol": "v1",
+  "mode": "beta",
+  "time": "2024-06-19 10:08:21.897",
+  "version": "1.0.10",
+  "branch": "fix/multiple_apps_merge_3.11_remove_permission",
+  "commitId": "1166914cf12c6f9c9b20a13ff4ee350c3f2624ba",
+  "moduleCommitId": "45ddc151e0a3ad51fd859814b58974ce8b5d3471",
+  "lastMessage": "1.0.10",
+  "extraInfo": "pods",
+  "groupId": "com.shopee.luban",
+  "artifactId": "luban-ccms",
+  "path": ":ccms",
+  "remoteUrl": "https://git.garena.com/shopee/android/AndroidAPM/luban.git"
+}

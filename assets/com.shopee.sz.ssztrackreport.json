@@ -1,0 +1,15 @@
+{
+  "protocol": "v1",
+  "mode": "patch",
+  "time": "2024-05-07 18:06:38.731",
+  "version": "0.172.2",
+  "branch": "v3.26",
+  "commitId": "93813c4067c3bb3eeb6d828c00bdb150cf3d4d2d",
+  "moduleCommitId": "8b16cff781ef2413d6b0b2660feb3dd7aca894fc",
+  "lastMessage": "Merge branch \u0027cxy/3.26/exoplayer-loadffmpeg-opt\u0027 into \u0027v3.26\u0027",
+  "extraInfo": "v3.26",
+  "groupId": "com.shopee.sz",
+  "artifactId": "ssztrackreport",
+  "path": ":ssztrackreport",
+  "remoteUrl": "gitlab@git.garena.com:shopee/live-tech/coreplayersdk/MMCLiveStreamer.git"
+}

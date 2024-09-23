@@ -1,0 +1,15 @@
+{
+  "protocol": "v1",
+  "mode": "release",
+  "time": "2022-07-15 10:44:11.184",
+  "version": "1.131.0",
+  "branch": "master",
+  "commitId": "161d1b3f5134fc26d9c91009cd0cd1bda7906a82",
+  "moduleCommitId": "4c6c952cff0ca31b04716d432438b33f9585e825",
+  "lastMessage": "Merge branch \u0027v2.91\u0027 into \u0027master\u0027",
+  "extraInfo": "master",
+  "groupId": "com.shopee.sz",
+  "artifactId": "loguploader",
+  "path": ":log-uploader",
+  "remoteUrl": "gitlab@git.garena.com:shopee/ssz-client/android/common/sszlivesdkandroid.git"
+}

@@ -1,0 +1,15 @@
+{
+  "protocol": "v1",
+  "mode": "patch",
+  "time": "2022-09-27 20:00:25.267",
+  "version": "1.12.3",
+  "branch": "master",
+  "commitId": "9fe5de5208e22a65e0e0a63d28796b5e47702293",
+  "moduleCommitId": "9fe5de5208e22a65e0e0a63d28796b5e47702293",
+  "lastMessage": "#Feature [SPV-17679] 修复延迟初始化log没有生效问题",
+  "extraInfo": "master",
+  "groupId": "com.shopee.sz",
+  "artifactId": "log",
+  "path": ":log",
+  "remoteUrl": "ssh://gitlab@git.garena.com:2222/shopee/ssz-client/android/toc/common.git"
+}

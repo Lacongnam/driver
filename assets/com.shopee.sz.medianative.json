@@ -1,0 +1,11 @@
+{
+  "mode": "patch",
+  "time": "2023-09-06 11:30:31.442",
+  "version": "1.15.260",
+  "branch": "dev-driver",
+  "commitId": "9009d75a00afde60822f8b924ab86a6a88a6902a",
+  "lastMessage": "适配API33",
+  "extraInfo": "dev-driver",
+  "groupId": "com.shopee.sz",
+  "artifactId": "medianative"
+}

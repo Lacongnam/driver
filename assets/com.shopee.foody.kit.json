@@ -1,0 +1,15 @@
+{
+  "protocol": "v1",
+  "mode": "snap",
+  "time": "2024-07-12 17:14:41.269",
+  "version": "5.0.32-ee99043-SNAPSHOT",
+  "branch": "fix-airmap-leak",
+  "commitId": "ee99043c86923bcf573d6a9ef3861e9ad7f4cf1b",
+  "moduleCommitId": "5b4174d25a140054c512b5e8550826e4ec9420d3",
+  "lastMessage": "fix: 尝试用全局context替换原始context",
+  "extraInfo": "pods",
+  "groupId": "com.shopee.foody",
+  "artifactId": "kit",
+  "path": ":kit",
+  "remoteUrl": "https://git.garena.com/shopee/foody/foody-android-lib.git"
+}

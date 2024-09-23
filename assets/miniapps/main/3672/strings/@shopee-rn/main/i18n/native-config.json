@@ -1,0 +1,12 @@
+{
+  "pages": [
+    "@shopee-rn/main/TRANSACTION_DETAIL",
+    "@shopee-rn/main/WALLET_TICKET_DETAIL",
+    "@shopee-rn/main/ORDER_DETAIL",
+    "@shopee-rn/main/ORDER_ONGOING",
+    "@shopee-rn/main/WALLET",
+    "@shopee-rn/main/COURSE_LIST",
+    "@shopee-rn/main/REBORN_ORDER_DETAIL",
+    "@shopee-rn/main/SLC_ERROR"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "protocol": "v1",
+  "mode": "patch",
+  "time": "2024-07-03 18:39:37.820",
+  "version": "0.75.2",
+  "branch": "chaojie/3.31_add_new_rn_video_upload_interface",
+  "commitId": "10103affbc25730944f70afa909c7f19dee86db8",
+  "moduleCommitId": "0ca920a1c18aa8b861247d936fd42f6b3a9c5ae4",
+  "lastMessage": "add cronet interceptor in demo",
+  "extraInfo": "chaojie/3.31_add_new_rn_video_upload_interface",
+  "groupId": "com.shopee.sz",
+  "artifactId": "picuploadsdk",
+  "path": ":picuploadsdk",
+  "remoteUrl": "https://git.garena.com/shopee/mms/mms-client-sdk/android/mmsuploadsdk.git"
+}

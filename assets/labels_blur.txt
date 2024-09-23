@@ -1,0 +1,5 @@
+ok
+blur
+block
+bright
+dark

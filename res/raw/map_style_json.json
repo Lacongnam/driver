@@ -1,0 +1,7 @@
+[
+  {
+    "featureType": "water",
+    "elementType": "labels.text.fill",
+    "stylers": [{ "visibility": "off"}]
+  }
+]

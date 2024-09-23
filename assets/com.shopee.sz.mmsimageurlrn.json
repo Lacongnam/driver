@@ -1,0 +1,15 @@
+{
+  "protocol": "v1",
+  "mode": "patch",
+  "time": "2024-04-29 18:09:06.183",
+  "version": "0.1.2",
+  "branch": "version_3.25/main_for_food",
+  "commitId": "306533220ae9569b4d8418db3af6a67b3c375931",
+  "moduleCommitId": "0a7cb9cbae7d5a0956daafc648ced6e4e0ae6125",
+  "lastMessage": "更新endpoint版本号为0.74.0（含云配bugfix）",
+  "extraInfo": "version_3.25/main_for_food",
+  "groupId": "com.shopee.sz",
+  "artifactId": "mmsimageurlrn",
+  "path": ":mmsimageurlrn",
+  "remoteUrl": "https://git.garena.com/shopee/mms/mms-client-sdk/android/mmsimageurlsdk.git"
+}

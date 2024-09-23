@@ -1,0 +1,15 @@
+{
+  "protocol": "v1",
+  "mode": "beta",
+  "time": "2022-12-14 17:10:29.919",
+  "version": "0.0.24-2d0be50-beta",
+  "branch": "release-2.3",
+  "commitId": "2d0be507a1b2e267dc3f1034a248b2ef49b01ecc",
+  "moduleCommitId": "f5dac119ce9932227fe1fd2632ce9dd2c39c0dec",
+  "lastMessage": "Merge branch \u0027upgrade-2.3.5\u0027 into \u0027release-2.3\u0027",
+  "extraInfo": "pods",
+  "groupId": "com.shopee.apm",
+  "artifactId": "apm-hook",
+  "path": ":apm-hook",
+  "remoteUrl": "gitlab@git.garena.com:shopee/sz-devops/mdap/mdap-android-sdk/hamster-android.git"
+}

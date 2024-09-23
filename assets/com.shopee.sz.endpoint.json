@@ -1,0 +1,15 @@
+{
+  "protocol": "v1",
+  "mode": "test",
+  "time": "2024-07-01 17:29:14.018",
+  "version": "0.78.0.1719826153994.0af04f6.test",
+  "branch": "dss/3.30-fix-mmsregistry",
+  "commitId": "0af04f658a535a4684fb47dda8a414d4ba22a196",
+  "moduleCommitId": "7a2673817d5bcdbe8d42cfa33282087c76c35cc8",
+  "lastMessage": "#bugfix 修复mmsregistry非空覆盖问题",
+  "extraInfo": "dss/3.30-fix-mmsregistry",
+  "groupId": "com.shopee.sz",
+  "artifactId": "endpoint",
+  "path": ":endpoint",
+  "remoteUrl": "https://git.garena.com/shopee/mms/mms-client-sdk/android/mmsendpointsdk.git"
+}

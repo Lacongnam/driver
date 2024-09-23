@@ -1,0 +1,15 @@
+{
+  "protocol": "v1",
+  "mode": "release",
+  "time": "2022-08-16 16:37:13.792",
+  "version": "1.10.0",
+  "branch": "master",
+  "commitId": "3d2ca2fc1ed69ea2085b1e37d5f6be8c5c7a50e5",
+  "moduleCommitId": "2fd7051b517720e94d10ee3b5d4061d5ace43626",
+  "lastMessage": "Merge branch \u0027master\u0027 into SPV-13715-threadPoolPromot",
+  "extraInfo": "master",
+  "groupId": "com.shopee.sz",
+  "artifactId": "szthreadkit",
+  "path": ":szthreadkit",
+  "remoteUrl": "ssh://gitlab@git.garena.com:2222/shopee/ssz-client/android/toc/common.git"
+}

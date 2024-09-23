@@ -1,0 +1,15 @@
+{
+  "protocol": "v1",
+  "mode": "test",
+  "time": "2024-07-01 17:31:58.394",
+  "version": "0.3.0.1719826318385.2793320.test",
+  "branch": "dss/3.30-fix-mmsretistry",
+  "commitId": "2793320ff2ef48c16c892c87d39a4975265712e4",
+  "moduleCommitId": "f6a55652cd0af97c78eba848ae0dfe9204de95c3",
+  "lastMessage": "#bugfix 修复mmsregistry非空覆盖问题",
+  "extraInfo": "dss/3.30-fix-mmsretistry",
+  "groupId": "com.shopee.sz",
+  "artifactId": "mmsimageurl",
+  "path": ":mmsimageurl",
+  "remoteUrl": "https://git.garena.com/shopee/mms/mms-client-sdk/android/mmsimageurlsdk.git"
+}

@@ -1,0 +1,11 @@
+{
+  "mode": "patch",
+  "time": "2023-09-06 11:31:47.941",
+  "version": "1.30.259",
+  "branch": "dev-driver",
+  "commitId": "9009d75a00afde60822f8b924ab86a6a88a6902a",
+  "lastMessage": "适配API33",
+  "extraInfo": "dev-driver",
+  "groupId": "com.shopee.sz",
+  "artifactId": "videorecorder"
+}
